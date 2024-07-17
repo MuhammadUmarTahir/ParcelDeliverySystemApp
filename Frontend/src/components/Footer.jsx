@@ -9,8 +9,8 @@ const Footer = () => {
         </span>
       </div>
       <div className="flex flex-col">
-        <span>Design by V8Techworks</span>
-        <span>&copy; copyright 2024</span>
+        <span>Design by UmarTahir</span>
+        <span>&copy; Web Engineering 2024</span>
       </div>
     </div>
   );

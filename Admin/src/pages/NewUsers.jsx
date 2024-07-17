@@ -65,7 +65,7 @@ const NewUsers = () => {
         <label htmlFor="">Full Name</label>
         <input
           type="text"
-          placeholder="James Doe"
+          placeholder="Umar Tahir"
           name="fullname"
           value={inputs.fullname || ''}
           onChange={handleChange}
@@ -76,7 +76,7 @@ const NewUsers = () => {
         <label htmlFor="">Email</label>
         <input
           type="text"
-          placeholder="jamesdoe@gmail.com"
+          placeholder="umartahir@gmail.com"
           name="email"
           value={inputs.email || ''}
           onChange={handleChange}
@@ -87,7 +87,7 @@ const NewUsers = () => {
         <label htmlFor="">Age</label>
         <input
           type="Number"
-          placeholder="30"
+          placeholder="22"
           name="age"
           value={inputs.age || ''}
           onChange={handleChange}
@@ -98,7 +98,7 @@ const NewUsers = () => {
         <label htmlFor="">Country</label>
         <input
           type="text"
-          placeholder="Australia"
+          placeholder="Pakistan"
           name="country"
           value={inputs.country || ''}
           onChange={handleChange}
@@ -109,7 +109,7 @@ const NewUsers = () => {
         <label htmlFor="">Address</label>
         <input
           type="text"
-          placeholder="Laura Avenue, Sydney, Australia"
+          placeholder="FB Area Block 2, Pakistan"
           name="address"
           value={inputs.address || ''}
           onChange={handleChange}

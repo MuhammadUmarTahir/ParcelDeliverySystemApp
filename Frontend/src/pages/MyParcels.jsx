@@ -43,7 +43,7 @@ const MyParcels = () => {
             onClick={handleOpen}
           >
             <FaUser className="mr-[10px]" />
-            Alok Mondala
+            Umar Tahir
           </span>
         </div>
         {open && (

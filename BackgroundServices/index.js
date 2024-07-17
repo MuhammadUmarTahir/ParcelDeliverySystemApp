@@ -19,12 +19,10 @@ mongoose
   });
 
 const run = () => {
-  cron.schedule("* * * * * *", async() => {
-  
+  cron.schedule("* * * * * *", async () => {
     await SendParcelDeliveredEmail();
     await SendParcelPendingEmail();
     await sendWelcomeEmail();
-    
   });
 };
 

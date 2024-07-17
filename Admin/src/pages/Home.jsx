@@ -65,9 +65,9 @@ const Home = () => {
           <h2 className="flex px-[20px] text-[#fff]">Recent Users</h2>
 
           <ol className="flex font-semibold flex-col justify-end px-[20px] mt-[10px]  text-[#D9D9D9]">
-            <li>1. John Doe</li>
-            <li>2. Alex Doe</li>
-            <li>3. Jane Doe</li>
+            <li>1. Umar tahir</li>
+            <li>2. Abdur Rehman</li>
+            <li>3. Maaz Khan</li>
           </ol>
         </div>
       </div>
